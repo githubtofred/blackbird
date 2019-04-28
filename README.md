@@ -246,7 +246,7 @@ Once you have successfully launched Blackbird following the instructions in the 
 
 ### Log Output Example
 
-This is what the log file looks like when Blackbird is started:
+This is whataaa the log file looks like when Blackbird is started:
 
 
 ```
